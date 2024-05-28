@@ -1,6 +1,4 @@
 # xampp
-## Demo
-# [Project Link](http://asurstark.wuaze.com/)
 
 
 # Preview
